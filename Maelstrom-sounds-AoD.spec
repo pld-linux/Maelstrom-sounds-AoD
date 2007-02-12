@@ -1,5 +1,5 @@
 Summary:	Rockin' asteroids game - extra sounds
-Summary(pl):	Gra, w której strzelasz do asteroidów - dodatkowe d¼wiêki
+Summary(pl.UTF-8):   Gra, w ktÃ³rej strzelasz do asteroidÃ³w - dodatkowe dÅºwiÄ™ki
 Name:		Maelstrom-sounds-AoD
 Version:	1
 Release:	1
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Extra sounds for Maelstrom: Army of Darkness.
 
-%description -l pl
-D¼wiêki dla Maelstroma: Army if Darkness.
+%description -l pl.UTF-8
+DÅºwiÄ™ki dla Maelstroma: Army if Darkness.
 
 %prep
 %setup -q -n Army_Of_Darkness_Sounds
