@@ -8,6 +8,7 @@ Group:		X11/Applications/Games
 Source0:	http://www.devolution.com/~slouken/projects/Maelstrom/add-ons/Army_Of_Darkness_Sounds.zip
 # Source0-md5:	c96073ea2dc69481b4867d6e2f6a8a9d
 URL:		http://www.devolution.com/~slouken/projects/Maelstrom/add-ons.html
+BuildRequires:	unzip
 Requires:	Maelstrom
 Obsoletes:	Maelstrom-sounds
 Obsoletes:	Maelstrom-sounds-BB
